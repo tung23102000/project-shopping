@@ -1,38 +1,5 @@
 .hot-trend {
-  .title{
-    text-transform: uppercase;
-    font-size: 2.8rem;
-    color: rgb(241, 91, 103);
-    margin: 3.5rem 0px;
-    text-align: center;
-    font-family: Nunito, sans-serif;
-    font-weight: 600;
-  }
   img {
     width: 100%;
-  }
-}
-.category-section{
-  position: relative;
-  .title{
-    text-transform: uppercase;
-    font-size: 2.8rem;
-    color: rgb(241, 91, 103);
-    margin: 3.5rem 0px;
-    text-align: center;
-    font-family: Nunito, sans-serif;
-    font-weight: 600;
-  }
-  .see-all{
-    text-decoration: none;
-    position: absolute;
-    display: flex;
-    align-items: center;
-    top: 7px;
-    right: 15px;
-    font-size: 16px;
-    color: grey;
-    font-family: Nunito, sans-serif;
-    font-weight: 600;
   }
 }
